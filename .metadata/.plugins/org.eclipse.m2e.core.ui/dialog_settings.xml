@@ -2,7 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\siddh\OneDrive\Desktop\real-estate-roi-tracker"/>
+			<item value="D:\8th sem\bridgelabz.workspace\real-estate-roi-tracker"/>
+			<item value="D:\8th sem\bridgelabz.workspace\junit-testing"/>
 			<item value="C:\Users\siddh\OneDrive\Desktop\StockPortfolio"/>
+			<item value="D:\8th sem\bridgelabz.workspace\addressbook"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
